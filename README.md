@@ -8,7 +8,9 @@ Adobe XDからのデザインカンプを行いました。
 ## 公開URL
 https://ryousukemizokami.github.io/syokyuex/
 
-<p>
+<div style="display: inline-block;">
     <img src="img/ishiinaika.png" width="500px"　style="vertical-align: top;">
+</div>
+<div style="display: inline-block;">
     <img src="img/ishiinaika(iphone).png" width="200px" style="vertical-align: top;">
-</p>
+</div>
