@@ -9,6 +9,6 @@ Adobe XDからのデザインカンプを行いました。
 https://ryousukemizokami.github.io/syokyuex/
 
 <p>
-    <img src="img/ishiinaika.png" width="500px">
-    <img src="img/ishiinaika(iphone).png" width="200px">
+    <img src="img/ishiinaika.png" width="500px"　style="vertical-align: top;">
+    <img src="img/ishiinaika(iphone).png" width="200px" style="vertical-align: top;">
 </p>
